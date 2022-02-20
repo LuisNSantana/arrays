@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/arrays/rellenoMatriz/bin/Debug/rellenoMatriz.exe
+/Users/luisnayib/Projects/arrays/rellenoMatriz/bin/Debug/rellenoMatriz.pdb
+/Users/luisnayib/Projects/arrays/rellenoMatriz/obj/anycpu/Debug/rellenoMatriz.exe
+/Users/luisnayib/Projects/arrays/rellenoMatriz/obj/anycpu/Debug/rellenoMatriz.pdb

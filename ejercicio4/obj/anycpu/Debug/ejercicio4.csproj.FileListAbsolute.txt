@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/arrays/ejercicio4/bin/Debug/ejercicio4.exe
+/Users/luisnayib/Projects/arrays/ejercicio4/bin/Debug/ejercicio4.pdb
+/Users/luisnayib/Projects/arrays/ejercicio4/obj/anycpu/Debug/ejercicio4.exe
+/Users/luisnayib/Projects/arrays/ejercicio4/obj/anycpu/Debug/ejercicio4.pdb

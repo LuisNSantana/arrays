@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/arrays/arrays/bin/Debug/arrays.exe
+/Users/luisnayib/Projects/arrays/arrays/bin/Debug/arrays.pdb
+/Users/luisnayib/Projects/arrays/arrays/obj/Debug/arrays.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/arrays/arrays/obj/Debug/arrays.exe
+/Users/luisnayib/Projects/arrays/arrays/obj/Debug/arrays.pdb

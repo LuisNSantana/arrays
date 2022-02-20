@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/arrays/ejercicio1/bin/Debug/ejercicio1.exe
+/Users/luisnayib/Projects/arrays/ejercicio1/bin/Debug/ejercicio1.pdb
+/Users/luisnayib/Projects/arrays/ejercicio1/obj/anycpu/Debug/ejercicio1.exe
+/Users/luisnayib/Projects/arrays/ejercicio1/obj/anycpu/Debug/ejercicio1.pdb
+/Users/luisnayib/Projects/arrays/ejercicio1/obj/anycpu/Debug/ejercicio1.csprojAssemblyReference.cache

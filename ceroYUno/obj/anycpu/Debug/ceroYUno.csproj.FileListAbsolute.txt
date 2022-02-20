@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/arrays/ceroYUno/bin/Debug/ceroYUno.exe
+/Users/luisnayib/Projects/arrays/ceroYUno/bin/Debug/ceroYUno.pdb
+/Users/luisnayib/Projects/arrays/ceroYUno/obj/anycpu/Debug/ceroYUno.exe
+/Users/luisnayib/Projects/arrays/ceroYUno/obj/anycpu/Debug/ceroYUno.pdb

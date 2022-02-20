@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/arrays/vectorAlumnosNotas/bin/Debug/vectorAlumnosNotas.exe
+/Users/luisnayib/Projects/arrays/vectorAlumnosNotas/bin/Debug/vectorAlumnosNotas.pdb
+/Users/luisnayib/Projects/arrays/vectorAlumnosNotas/obj/anycpu/Debug/vectorAlumnosNotas.exe
+/Users/luisnayib/Projects/arrays/vectorAlumnosNotas/obj/anycpu/Debug/vectorAlumnosNotas.pdb

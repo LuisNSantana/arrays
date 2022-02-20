@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/arrays/diaMes/bin/Debug/diaMes.exe
+/Users/luisnayib/Projects/arrays/diaMes/bin/Debug/diaMes.pdb
+/Users/luisnayib/Projects/arrays/diaMes/obj/anycpu/Debug/diaMes.exe
+/Users/luisnayib/Projects/arrays/diaMes/obj/anycpu/Debug/diaMes.pdb
